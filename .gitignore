@@ -4,3 +4,5 @@ bin/
 *.depend
 *.layout
 *.o
+*.out
+
